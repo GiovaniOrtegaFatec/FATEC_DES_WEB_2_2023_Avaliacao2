@@ -1,0 +1,1 @@
+Segunda avaliação da Disciplina 'Desenvolvimento Web II', da Fatec Araras, no curso de Desenvolvimento de Software. O desafio era fazer uma página de cadastro de vestibulandos, utilizando de html, linguagem PHP e um banco de dados feito a partir do MySQL.    
